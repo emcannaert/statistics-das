@@ -56,7 +56,7 @@ git clone https://github.com/FNALLPC/statistics-das
 
 *Hint! If you want to cut-and-paste this command in the terminal, highlight the link and copy it as you usually would (Ctrl+c). To paste it, use Shift+Ctrl+v*
 
-Now go back to the Jupyter directory tab. There should be a new directory called `statistics-das`. All of the tutorials and exercises are in there.  **Start by clicking on [`setup-libraries.ipynb`](setup-libraries.ipynb) and running it. Keep this notebook running while you are doing these exercises.**
+Now go back to the Jupyter directory tab. There should be a new directory called `statistics-das`. All of the tutorials and exercises are in there.  **Start by clicking on [`setup-libraries.ipynb`](setup-libraries.ipynb) and running it.**
 
 ## Links
 
