@@ -60,9 +60,7 @@ Now go back to the Jupyter directory tab. There should be a new directory called
 
 ## Links
 
-The indico page is: [https://indico.cern.ch/e/cmsdas2023](https://indico.cern.ch/e/cmsdas2023)
-
-The Mattermost for live support is: <https://mattermost.web.cern.ch/cmsdaslpc2023/channels/shortexstatistics>. (If you don't have access, see the general CMSDAS instructions for the Mattermost signup link.)
+The indico page is: [https://indico.cern.ch/event/1257234/](https://indico.cern.ch/event/1257234/)
 
 The twiki is: <https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2023StatisticsExercise>
 
