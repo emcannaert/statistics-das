@@ -51,7 +51,7 @@ Now you should see the JupyterHub home directory. Click on "New" then "Terminal"
 In the terminal window, download the tutorials by typing:
 
 ```
-git clone https://github.com/FNALLPC/statistics-das
+git clone https://github.com/emcannaert/statistics-das
 ```
 
 *Hint! If you want to cut-and-paste this command in the terminal, highlight the link and copy it as you usually would (Ctrl+c). To paste it, use Shift+Ctrl+v*
