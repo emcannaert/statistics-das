@@ -62,6 +62,4 @@ Now go back to the Jupyter directory tab. There should be a new directory called
 
 The indico page is: [https://indico.cern.ch/event/1257234/](https://indico.cern.ch/event/1257234/)
 
-The twiki is: <https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2023StatisticsExercise>
-
-FNAL github site (instead of twiki) : <https://fnallpc.github.io/statistics-das/>
+The twiki is: <https://twiki.cern.ch/twiki/bin/edit/CMS/SWGuideCMSDataAnalysisSchoolCERN2023StatisticsExercise?t=1684950666;nowysiwyg=0>
